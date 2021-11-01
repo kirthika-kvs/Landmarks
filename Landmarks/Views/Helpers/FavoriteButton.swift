@@ -2,7 +2,7 @@
 //  FavoriteButton.swift
 //  Landmarks
 //
-//  Created by Saravanan Pari on 10/31/21.
+//  Created by Kirthika Seralathan on 10/31/21.
 //
 
 import SwiftUI

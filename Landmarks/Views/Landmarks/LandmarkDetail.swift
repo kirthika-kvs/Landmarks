@@ -2,7 +2,7 @@
 //  LandmarkDetail.swift
 //  Landmarks
 //
-//  Created by Saravanan Pari on 10/29/21.
+//  Created by Kirthika Seralathan on 10/29/21.
 //
 
 import SwiftUI
