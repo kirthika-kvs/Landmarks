@@ -34,6 +34,10 @@ struct Landmark : Hashable, Codable, Identifiable {
         Image(imageName)
     }
     
+    var featureImage: Image? {
+        isFeatured ? Image(imageName + "_feature") : nil
+    }
+    
     // Coordinates for the location
     private var coordinates : Coordinates
     // Coordinate Property for Map Kit
